@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CZ Author</string>
+
+    <string name="no_image_selected_text">No Image Selected</string>
+    <string name="add_image_text">Add Image</string>
+    <string name="write_text_text">Write Text</string>
+    <string name="image_tab">Image</string>
+    <string name="write_tab">Write</string>
+
+    <string name="ImageTabTag">ImageTab</string>
+    <string name="WriteTabTag">WriteTab</string>
+</resources>
